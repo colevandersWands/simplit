@@ -1,0 +1,16 @@
+{
+  "name": "simplit",
+  "version": "0.0.2",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/janke-learning/simplit",
+  "preferGlobal": true,
+  "bin": {
+    "simplit": "./bin/index.js"
+  }
+}
