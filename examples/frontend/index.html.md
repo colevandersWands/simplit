@@ -15,5 +15,5 @@ make a header:
 require the script:
 
 ```html
-<script src='./script.js'></script>
+<script src='./scripts/script.js'></script>
 ```
